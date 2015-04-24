@@ -1,0 +1,11 @@
+name: libffi6_support
+version: 0.0.1
+author: Andrew Mezoni <andrew.mezoni@gmail.com>
+description: Support of the dynamic library "libffi6".
+homepage: https://github.com/mezoni/libffi6_support
+dependencies:
+  binary_types: any
+  libc: any
+  libffi6_extension: any
+  system_info: any
+  unsafe_extension: any
